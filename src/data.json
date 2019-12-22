@@ -1,0 +1,29 @@
+{
+  "nav": [
+    {
+      "id": 0,
+      "path": "/",
+      "title": "Home"
+    },
+    {
+      "id": 1,
+      "path": "/about",
+      "title": "About Me"
+    },
+    {
+      "id": 2,
+      "path": "/contact",
+      "title": "Contact Me"
+    },
+    {
+      "id": 3,
+      "path": "/admin",
+      "title": "Blog Admin"
+    },
+    {
+      "id": 4,
+      "path": "/create",
+      "title": ""
+    }
+  ]
+}
